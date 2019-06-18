@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_para"
+            android:icon="@drawable/ic_para_check"
+            android:title="Parameter Check" />
+        <!--<item
+            android:id="@+id/prog"
+            android:icon="@drawable/ic_prog"
+            android:title="Plant Progress" />-->
+        <item
+            android:id="@+id/nav_analytics"
+            android:icon="@drawable/ic_analytics"
+            android:title="Parameter Check" />
+    </group>
+
+
+</menu>
